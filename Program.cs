@@ -56,7 +56,7 @@ namespace EncapsulationExample
             r.width = 3.5;
             r.Display(); */
 
-
+               
             // using the private Access Specifier Variables;
             Rectangle r = new Rectangle();
             r.AcceptDetails();
